@@ -1,1 +1,0 @@
-The images in this folder originate from the Middlebury benchmark for Optical Flow: http://vision.middlebury.edu/flow
